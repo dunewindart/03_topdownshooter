@@ -904,3 +904,22 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2025.05.04-17.33.50:801][  0]LogAssetRegistry: Asset discovery search completed in 5.2135 seconds
 [2025.05.04-17.33.50:806][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2025.05.04-17.33.50:807][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2025.05.04-17.41.56:881][207]LogSlate: Window 'Save Level As' being destroyed
+[2025.05.04-17.41.56:890][207]LogSlate: Took 0.000160 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.05.04-17.41.56:899][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01" FILE="C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.04-17.41.56:916][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.04-17.41.56:923][207]LogSavePackage: Moving 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Saved/0109F971894BE732887FAD948F7A4BEC7E.tmp' to 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01.umap'
+[2025.05.04-17.41.56:926][207]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01_BuiltData" FILE="C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01_BuiltData.uasset" SILENT=true
+[2025.05.04-17.41.56:936][207]LogSavePackage: Moving 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Saved/01_BuiltDataD4D177F24F570E935467FCB020689D1D.tmp' to 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01_BuiltData.uasset'
+[2025.05.04-17.41.56:943][207]LogFileHelpers: Saving map '01' took 0.056
+[2025.05.04-17.41.56:945][207]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.04-17.41.56:945][207]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/01_BuiltData.01_BuiltData
+[2025.05.04-17.41.56:946][207]LogContentValidation: Display: Validating World /Game/01.01
+[2025.05.04-17.41.59:366][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01" FILE="C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.05.04-17.41.59:369][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.05.04-17.41.59:375][494]LogSavePackage: Moving 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Saved/01DE52D13142BCF04695806CAE0BBE67AD.tmp' to 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01.umap'
+[2025.05.04-17.41.59:378][494]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/01_BuiltData" FILE="C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01_BuiltData.uasset" SILENT=true
+[2025.05.04-17.41.59:387][494]LogSavePackage: Moving 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Saved/01_BuiltData919D04D849AC2028D6EAC6ABE6BF3212.tmp' to 'C:/Users/Julka/Documents/GitHub/03_topdownshooter/topdownshooter/Content/01_BuiltData.uasset'
+[2025.05.04-17.41.59:396][494]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.04-17.41.59:396][494]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/01_BuiltData.01_BuiltData
+[2025.05.04-17.41.59:396][494]LogContentValidation: Display: Validating World /Game/01.01
